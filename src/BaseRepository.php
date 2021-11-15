@@ -2,7 +2,7 @@
 
 namespace ab\LaravelRepo;
 
-use Dbg\Repository\Contracts\BaseRepositoryInterface;
+use ab\LaravelRepo\Contracts\BaseRepositoryInterface;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
